@@ -1,0 +1,26 @@
+{
+  "name": "riot-tag-hello-world",
+  "version": "1.0.0",
+  "description": "Sample super basic tag",
+  "main": "hello-world.tag",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riot-tags/hello-world.git"
+  },
+  "keywords": [
+    "riot-tag",
+    "hello",
+    "world",
+    "basic",
+    "simple"
+  ],
+  "author": "Per-Håkan Westman <ph@aspsele.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riot-tags/hello-world/issues"
+  },
+  "homepage": "https://github.com/riot-tags/hello-world"
+}
